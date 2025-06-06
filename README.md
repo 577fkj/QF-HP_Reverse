@@ -4,18 +4,6 @@ https://oshwhub.com/dhx233/pcb-heng-wen-jia-re-tai
 
 https://oshwhub.com/sheep_finder/pcb-heng-wen-jia-re-tai
 
-```
-目前事情也是告一段落了，让假开源项目变成了真开源。
-如果一个开源项目因为被倒卖而设置一堆限制，那你为什么要开源？
-
-过程：
-    在好几个月前我就看到了这个项目，对他的假开源和激活方式非常不爽，购买了ESP12F开发板在2025-6-2晚上进行了激活码逆向。
-    破解完成后再2025-6-3凌晨就把激活码算法上传至Github，中午在闲鱼发布了商品，随后项目开发者在群内发布我的闲鱼信息，以及我的其他平台账号信息，在群内进行辱骂，侮辱等。
-    并在嘉立创、B站等平台公开我的个人账号，引导网友进行网曝、人肉搜索等操作。
-
-目前事情已经结束，挂我信息无所谓，我打开免打扰就是了，又不影响我正常生活。
-```
-
 ## Firmware source code
 
 - [Gitee](https://gitee.com/deng-hongxiang/qf_hp_software)
